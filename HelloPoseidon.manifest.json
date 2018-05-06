@@ -1,4 +1,4 @@
-### HelloPoseidon.manifest.json
+HelloPoseidon.manifest.json
 The manifest file is used by the Poseidon Module Installer to register the new module in the DB.
 ```
 {
