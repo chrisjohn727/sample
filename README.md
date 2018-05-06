@@ -99,5 +99,12 @@ After creating an empty kognifai application framework App based on the Yeoman t
 * uninstall-module.cmd
 
   This file simplifies the uninstallation of the module in kognifai Application Framework.
+  
+ ### Create Sample Poseidon Instrument 
+When creating an empty Poseidon Instruments Package the result is a sample instrument package structure that can be populated with instruments such as dashboard instruments. This article provides a sample code for a platform instrument that you can use to jumpstart your development. 
+
+### Sample Widget newWidget
+The newly created sample Widgets Package project is the developer’s entry point for creating a widget. User defined widgets will be placed in the “widgets” project folder.
+app > localization > Locale-en.ts
 
 
