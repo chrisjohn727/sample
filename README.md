@@ -89,6 +89,6 @@ After creating an empty kognifai application framework App based on the Yeoman t
 * [HelloPoseidon.manifest.json](https://github.com/chrisjohn727/sample/blob/master/HelloPoseidon.manifest.json)
 * [HelloPoseidon.module.ts](https://github.com/chrisjohn727/sample/blob/master/HelloPoseidon.module.ts)
 * [mainView.html](https://github.com/chrisjohn727/sample/blob/master/mainView.html)
-
+* [Web.config](https://github.com/chrisjohn727/sample/blob/master/Web.config)
 
 
