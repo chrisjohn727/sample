@@ -1,6 +1,5 @@
 HelloPoseidon.module.ts
 In this file the root Angular module for the application is registered. Also some additional configuration can be performed, e.g. creating a state, registering the app in the ‘navigationService’, etc.
-
 module HelloPoseidon {
     angular.module('HelloPoseidon', ['Poseidon'])
         .config(function ($stateProvider: ng.ui.IStateProvider) {
