@@ -106,6 +106,7 @@ When creating an empty Poseidon Instruments Package the result is a sample instr
 ### Sample Widget newWidget
 The newly created sample Widgets Package project is the developer’s entry point for creating a widget. User defined widgets will be placed in the “widgets” project folder.
 * [app > localization > Locale-en.ts](https://github.com/chrisjohn727/sample/blob/master/app%20%3E%20localization%20%3E%20Locale-en.ts)
+* [styles > instruments > _newInstrument.scss](https://github.com/chrisjohn727/sample/blob/master/styles%20%3E%20instruments%20%3E%20_newInstrument.scss)
 
 
 
