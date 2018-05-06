@@ -88,7 +88,7 @@ poseidon-local --port 8080 c:\modules
 After creating an empty kognifai application framework App based on the Yeoman template, you will get the following solution structure:
 * [HelloPoseidon.manifest.json](https://github.com/chrisjohn727/sample/blob/master/HelloPoseidon.manifest.json)
 * [HelloPoseidon.module.ts](https://github.com/chrisjohn727/sample/blob/master/HelloPoseidon.module.ts)
-* [mainView.html](https://github.com/chrisjohn727/sample/new/master)
+* [mainView.html](https://github.com/chrisjohn727/sample/blob/master/mainView.html)
 
 
 
