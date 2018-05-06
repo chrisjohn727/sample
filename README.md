@@ -120,4 +120,4 @@ The newly created sample Widgets Package project is the developer’s entry poin
 )
 * [Application.manifest.json](https://github.com/chrisjohn727/sample/blob/master/Application.manifest.json)
 * [package.json](https://github.com/chrisjohn727/sample/blob/master/package.json)
-
+* [Web.config](https://github.com/chrisjohn727/sample/blob/master/Web.config_1)
