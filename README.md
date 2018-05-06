@@ -111,5 +111,8 @@ The newly created sample Widgets Package project is the developer’s entry poin
 * [app > instruments > newInstrument > newInstrumentConfig.ts](https://github.com/chrisjohn727/sample/blob/master/app%20%3E%20instruments%20%3E%20newInstrument%20%3E%20newInstrumentConfig.ts)
 * [app >  instruments > newInstrument > newInstrumentController.ts](https://github.com/chrisjohn727/sample/blob/master/app%20%3E%20%20instruments%20%3E%20newInstrument%20%3E%20newInstrumentController.ts
 )
+* [app > instruments > newInstrument > newInstrumentEdit.html](https://github.com/chrisjohn727/sample/blob/master/app%20%3E%20instruments%20%3E%20newInstrument%20%3E%20newInstrumentEdit.html)
+
+
 
 
