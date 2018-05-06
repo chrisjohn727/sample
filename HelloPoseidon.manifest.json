@@ -13,4 +13,11 @@ The manifest file is used by the Poseidon Module Installer to register the new m
       "permissionId": "4b6695be-2730-4f9e-a5c6-e2b8f51314cd",
       "name": "view"
     }
+  ],
+  "files": [
+    "styles/*.css",
+    "js/*.js"
+  ]
+}
+
 ```
