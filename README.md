@@ -91,10 +91,13 @@ After creating an empty kognifai application framework App based on the Yeoman t
 * [mainView.html](https://github.com/chrisjohn727/sample/blob/master/mainView.html)
 * [Web.config](https://github.com/chrisjohn727/sample/blob/master/Web.config)
 * Locale-en.ts
+
   This file is responsible to store localization of the application. If localization is not a requirement it can be removed
 * install-module.cmd
+
   This file simplifies the registration of the module in kognifai Application Framework.
 * uninstall-module.cmd
+
   This file simplifies the uninstallation of the module in kognifai Application Framework.
 
 
