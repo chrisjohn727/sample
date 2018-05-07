@@ -89,8 +89,8 @@ poseidon-local --port 8080 c:\modules
 
 ### What will you get
 After creating an empty kognifai application framework App based on the Yeoman template, you will get the following solution structure:
-* [HelloPoseidon.manifest.json](https://github.com/chrisjohn727/sample/blob/master/HelloPoseidon.manifest.json)
-* [HelloPoseidon.module.ts](https://github.com/chrisjohn727/sample/blob/master/HelloPoseidon.module.ts)
+* [HelloPoseidon.manifest.json](https://github.com/chrisjohn727/sample/blob//Sample%20Poseidon%20Instrument/master/HelloPoseidon.manifest.json)
+* [HelloPoseidon.module.ts](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/HelloPoseidon.module.ts)
 * [mainView.html](https://github.com/chrisjohn727/sample/blob/master/mainView.html)
 * [Web.config](https://github.com/chrisjohn727/sample/blob/master/Web.config)
 * Locale-en.ts
@@ -108,19 +108,19 @@ When creating an empty Poseidon Instruments Package the result is a sample instr
 
 ### Sample Widget Package
 The newly created sample Widgets Package project is the developer’s entry point for creating a widget. User defined widgets will be placed in the “widgets” project folder.
-* [app > localization > Locale-en.ts](https://github.com/chrisjohn727/sample/blob/master/app%20%3E%20localization%20%3E%20Locale-en.ts)
-* [styles > instruments > _newInstrument.scss](https://github.com/chrisjohn727/sample/blob/master/styles%20%3E%20instruments%20%3E%20_newInstrument.scss)
-* [app > instruments > newInstrument > newInstrument.html](https://github.com/chrisjohn727/sample/blob/master/app%20%3E%20instruments%20%3E%20newInstrument%20%3E%20newInstrument.html)
-* [app > instruments > newInstrument > newInstrumentConfig.ts](https://github.com/chrisjohn727/sample/blob/master/app%20%3E%20instruments%20%3E%20newInstrument%20%3E%20newInstrumentConfig.ts)
-* [app >  instruments > newInstrument > newInstrumentController.ts](https://github.com/chrisjohn727/sample/blob/master/app%20%3E%20%20instruments%20%3E%20newInstrument%20%3E%20newInstrumentController.ts
+* [app > localization > Locale-en.ts](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/app%20%3E%20localization%20%3E%20Locale-en.ts)
+* [styles > instruments > _newInstrument.scss](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/styles%20%3E%20instruments%20%3E%20_newInstrument.scss)
+* [app > instruments > newInstrument > newInstrument.html](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/app%20%3E%20instruments%20%3E%20newInstrument%20%3E%20newInstrument.html)
+* [app > instruments > newInstrument > newInstrumentConfig.ts](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/app%20%3E%20instruments%20%3E%20newInstrument%20%3E%20newInstrumentConfig.ts)
+* [app >  instruments > newInstrument > newInstrumentController.ts](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/app%20%3E%20%20instruments%20%3E%20newInstrument%20%3E%20newInstrumentController.ts
 )
-* [app > instruments > newInstrument > newInstrumentEdit.html](https://github.com/chrisjohn727/sample/blob/master/app%20%3E%20instruments%20%3E%20newInstrument%20%3E%20newInstrumentEdit.html)
-* [App > instruments > newInstrument > newInstrumentDataController.ts](https://github.com/chrisjohn727/sample/blob/master/App%20%3E%20instruments%20%3E%20newInstrument%20%3E%20newInstrumentDataController.ts
+* [app > instruments > newInstrument > newInstrumentEdit.html](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/app%20%3E%20instruments%20%3E%20newInstrument%20%3E%20newInstrumentEdit.html)
+* [App > instruments > newInstrument > newInstrumentDataController.ts](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/App%20%3E%20instruments%20%3E%20newInstrument%20%3E%20newInstrumentDataController.ts
 )
-* [App > instruments > newInstrument > newInstrumentDirective.ts](https://github.com/chrisjohn727/sample/blob/master/App%20%3E%20instruments%20%3E%20newInstrument%20%3E%20newInstrumentDirective.ts
+* [App > instruments > newInstrument > newInstrumentDirective.ts](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/App%20%3E%20instruments%20%3E%20newInstrument%20%3E%20newInstrumentDirective.ts
 )
-* [App > instruments > newInstrument > newInstrumentRegister.ts](https://github.com/chrisjohn727/sample/blob/master/App%20%3E%20instruments%20%3E%20newInstrument%20%3E%20newInstrumentRegister.ts
+* [App > instruments > newInstrument > newInstrumentRegister.ts](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/App%20%3E%20instruments%20%3E%20newInstrument%20%3E%20newInstrumentRegister.ts
 )
-* [Application.manifest.json](https://github.com/chrisjohn727/sample/blob/master/Application.manifest.json)
-* [package.json](https://github.com/chrisjohn727/sample/blob/master/package.json)
-* [Web.config](https://github.com/chrisjohn727/sample/blob/master/Web.config_1)
+* [Application.manifest.json](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/Application.manifest.json)
+* [package.json](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/package.json)
+* [Web.config](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/Web.config_1)
