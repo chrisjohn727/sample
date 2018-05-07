@@ -89,7 +89,7 @@ poseidon-local --port 8080 c:\modules
 
 ### What will you get
 After creating an empty kognifai application framework App based on the Yeoman template, you will get the following solution structure:
-* [HelloPoseidon.manifest.json](https://github.com/chrisjohn727/sample/blob//Sample%20Poseidon%20Instrument/master/HelloPoseidon.manifest.json)
+* [HelloPoseidon.manifest.json](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/HelloPoseidon.manifest.json)
 * [HelloPoseidon.module.ts](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/HelloPoseidon.module.ts)
 * [mainView.html](https://github.com/chrisjohn727/sample/blob/master/mainView.html)
 * [Web.config](https://github.com/chrisjohn727/sample/blob/master/Web.config)
@@ -122,5 +122,5 @@ The newly created sample Widgets Package project is the developer’s entry poin
 * [App > instruments > newInstrument > newInstrumentRegister.ts](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/App%20%3E%20instruments%20%3E%20newInstrument%20%3E%20newInstrumentRegister.ts
 )
 * [Application.manifest.json](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/Application.manifest.json)
-* [package.json](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/package.json)
-* [Web.config](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/Web.config_1)
+* [package.json](https://github.com/chrisjohn727/sample/blob/master/Sample%20Poseidon%20Instrument/package.json)
+* [Web.config](https://github.com/chrisjohn727/sample/blob/master/Sample%20Poseidon%20Instrument/Web.config_1)
