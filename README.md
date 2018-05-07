@@ -9,7 +9,7 @@ Creating Kognifai applications has its specifics, as is the case with any other 
 
 This guide assumes that you are running a development instance of Kognifai and have completed the necessary steps to successfully do so.
 
-To know more information on how to install and configure Kognifai Application Framework, refer to  
+To know how to install and configure Kognifai Application Framework, refer to  
 * [Install and Configure Application Framework](https://github.com/chrisjohn727/sample/wiki).
 
 ## QuickStart
