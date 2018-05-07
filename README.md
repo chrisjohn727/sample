@@ -91,8 +91,8 @@ poseidon-local --port 8080 c:\modules
 After creating an empty kognifai application framework App based on the Yeoman template, you will get the following solution structure:
 * [HelloPoseidon.manifest.json](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/HelloPoseidon.manifest.json)
 * [HelloPoseidon.module.ts](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/HelloPoseidon.module.ts)
-* [mainView.html](https://github.com/chrisjohn727/sample/blob/master/mainView.html)
-* [Web.config](https://github.com/chrisjohn727/sample/blob/master/Web.config)
+* [mainView.html](https://github.com/chrisjohn727/sample/blob/master/HelloPoseidon/mainView.html)
+* [Web.config](https://github.com/chrisjohn727/sample/blob/master/HelloPoseidon/Web.config)
 * Locale-en.ts
 
   This file is responsible to store localization of the application. If localization is not a requirement it can be removed
