@@ -8,7 +8,9 @@ __Welcome to Kognifai Application Framework__. This repository guides you to cre
 Creating Kognifai applications has its specifics, as is the case with any other platform. In order to ease the burden on developers we provide a Visual Studio project template to give them a useful starting point and create the basic artefacts required by Kognifai. 
 
 This guide assumes that you are running a development instance of Kognifai and have completed the necessary steps to successfully do so.
-To know more information on how to install and configure Kognifai Application Framework, refer to  .
+
+To know more information on how to install and configure Kognifai Application Framework, refer to  
+* [Install and Configure Application Framework](https://github.com/chrisjohn727/sample/wiki).
 
 ## QuickStart
 #### Step 1. Set up the Development Environment
