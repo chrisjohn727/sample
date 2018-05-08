@@ -60,4 +60,4 @@ The newly created sample Widgets Package project is the developer’s entry poin
 
 ### Basic use
 * [Application Files](https://github.com/chrisjohn727/sample/wiki/Application-Files)
-* [Styles](https://github.com/chrisjohn727/sample/wiki/Styles)
+* [Build Process](https://github.com/chrisjohn727/sample/wiki/Build-Process)
