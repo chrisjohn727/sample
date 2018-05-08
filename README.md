@@ -10,11 +10,7 @@ To know how to install and configure Kognifai Application Framework, refer to
 * [Install and Configure Application Framework](https://github.com/chrisjohn727/sample/wiki).
 
 ## QuickStart
-#### Step 1. Set up the Development Environment
-To install the Poseidon Tools extension for Visual Studio download Kognifai template extensions.vsix from 
 
-https://github.com/kognifai/GST-Intruments/tree/master/Visual%20Studio%20Extensions 
-and start it.
 
 #### Step 2. Create a new project
 
