@@ -1,4 +1,4 @@
-# Application Framework for Developers
+
 
 ![Home Image](https://github.com/chrisjohn727/sample/blob/master/images/Kognifai.png)
 
