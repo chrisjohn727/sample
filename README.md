@@ -21,15 +21,8 @@ Now we need to build our new project.
 When the build finishes right-click on the project from the source in the solution explorer. Choose Properties and then Web from the left navigation menu:
 Select Local IIS from the dropdown and enter the correct path to Poseidon local IIS instance + the base path to application files **Server/Modules/SamplePoseidonApp**. 
 We need to use the Poseidon Module Installer tool in order to register our new application. In the generated project there is already a cmd script that invokes the installer. First we need to ensure that the path to Poseidon.Module.Installer.exe is correct in the install-module.cmd file located in the newly created project:
+* [Poseidon.Module.Installer.exe](https://github.com/chrisjohn727/sample/blob/master/App%20Framework/Poseidon.Module.Installer)
 
-```
-@ECHO OFF
-SET moduleInstaller="Disk:\%PoseidonSourceDir%\Platform\DEV\Poseidon.Module.Installer\bin\Debug\Poseidon.Module.Installer.exe"
-SET manifest=SamplePoseidonApp.manifest.json
-CALL %moduleInstaller% install %manifest%
-PAUSE
-
-```
 Then simply run install-module.cmd and “Module installed successfully” message should be shown.
 
 In order to open the new application, just browse your local Kognifai Application Framework instance using your favorite browser. Depending on the installation steps the Kognifai Application Framework instance is typically on http://localhost or http://localhost:8080. Log in with the username admin and password poseidon. You can see the application in the main menu. It contains a single page with some text.
@@ -125,13 +118,13 @@ Now we need to build our new project.
 Wait the npm to download all of its packages and when the build finishes right-click on the project from the source in the solution explorer. Choose Properties and then Web from the left navigation menu:
 
 Select Local IIS from the dropdown and enter the correct path to Poseidon local IIS instance + the base path to application files Server/Modules/SamplePoseidonInstrument. 
+* [Poseidon.Module.Installer.exe](https://github.com/chrisjohn727/sample/blob/master/App%20Framework/Poseidon.Module.Installer)
 
 We need to use the Poseidon Module Installer tool in order to register our new application. In the generated project there is already a cmd scripts that invokes the installer. First we need to ensure that the path to Poseidon.Module.Installer.exe is correct in the install-module.cmd file located in the newly created project:
 
 Then simply run install-module.cmd and “Module installed successfully” message should be shown.
 In order to open the new instrument, just browse your local Kognifai instance. 
 Open New Dashboard from Dashboards application in Tools menu and then open Toolbox menu from right upper corner of the screen. Then you should see our newly created SamplePoseidonInstrument located in ‘Custom’ category.
-
 
 Add it to your Dashboard:
 
