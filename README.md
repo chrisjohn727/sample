@@ -118,3 +118,69 @@ The newly created sample Widgets Package project is the developer’s entry poin
 * [Application.manifest.json](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/Application.manifest.json)
 * [package.json](https://github.com/chrisjohn727/sample/blob/master/Sample%20Poseidon%20Instrument/package.json)
 * [Web.config](https://github.com/chrisjohn727/sample/blob/master/Sample%20Poseidon%20Instrument/Web.config_1)
+
+### Kognifai instrument
+
+#### Quick Start
+
+#### Step 1. Set up the Development Environment
+To install the Poseidon Tools exstension for Visual Studio download Kognifai template extensions.vsix from https://github.com/kognifai/GST-Intruments/tree/master/Visual%20Studio%20Extensions and start it.
+
+#### Step 2. Create a new project
+
+After that you can simply create a new Poseidon Instrument Package from Visual Studio which will provide us with basic necessary files required by a Kognifai instrument.
+To create a new instrument project, choose File, New Project option and select the Poseidon Instrument Package template in the TypeScript section. Enter the name of the project. For example SamplePoseidonInstrument:
+
+#### Step 3: Run the instrument in the platform
+
+Now we need to build our new project. 
+Wait the npm to download all of its packages and when the build finishes right-click on the project from the source in the solution explorer. Choose Properties and then Web from the left navigation menu:
+
+Select Local IIS from the dropdown and enter the correct path to Poseidon local IIS instance + the base path to application files Server/Modules/SamplePoseidonInstrument. 
+
+We need to use the Poseidon Module Installer tool in order to register our new application. In the generated project there is already a cmd scripts that invokes the installer. First we need to ensure that the path to Poseidon.Module.Installer.exe is correct in the install-module.cmd file located in the newly created project:
+
+```
+@ECHO OFF
+SET moduleInstaller="Disk:\%PoseidonSourceDir%\Platform\DEV\Poseidon.Module.Installer\bin\Debug\Poseidon.Module.Installer.exe"
+SET manifest=SamplePoseidonInstrument.manifest.json
+CALL %moduleInstaller% install %manifest%
+PAUSE
+```
+Then simply run install-module.cmd and “Module installed successfully” message should be shown.
+In order to open the new instrument, just browse your local Kognifai instance. 
+Open New Dashboard from Dashboards application in Tools menu and then open Toolbox menu from right upper corner of the screen. Then you should see our newly created SamplePoseidonInstrument located in ‘Custom’ category.
+
+
+Add it to your Dashboard:
+
+What you see is actually the code from newInstrument.html file located in app/instruments/newInstrument folder.
+If you click on the wheel at the top right corner of the instrument you will see the editing panel. The markup for it is located also in app/instruments/newInstrument folder of your project at newInstrumentEdit.html file.
+
+We have created a very basic Kognifai instrument.
+
+### Basic use
+#### Application Files
+The template defines a folder layout for the files in the project to keep things more organized. The app folder contains instrument specific files such as TypeScript files and angular templates. The styles folder is a place for all styles. Use the assets folder for other resources, like images, fonts, etc. Keep in mind that the build process uses these folders to discover files for some build steps. If you change the names you should change the build process configuration as well.
+
+#### SamplePoseidonInstrument.module.ts:
+Here we define an angular module for this application. We use it to define other angular components. 
+
+#### newInstrumentConfig.ts:
+The instrument’s config file is used to define the configuration attributes/properties of the instrument.
+
+#### newInstrumentController.ts:
+In this file you should include any logic that defines how data is displayed in your instrument. You can also use the file to:
+
+* create your property panel structure,
+* define custom/private properties (aside from the ones in the ‘config’)
+
+
+#### newInstrumentDataController.ts:
+The actual angular controller of our instrument. In this file you should include any logic that defines how data is loaded and updated in the instrument.
+
+#### newInstrumentDirective.ts:
+Here an angular directive is created in Typescript. Created properties of return object as properties of directive class, which implements ng.IDirective. Then create factory function which implements ng.IDirectiveFactory which returns the new instance of directive, where we inject the dependencies for Directive.
+
+#### newInstrumentRegister.ts:
+Here we register the instrument in the ‘dashboardProvider’ service which will enable the Display Framework to see it and define the configuration attributes of the instrument
