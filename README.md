@@ -15,11 +15,11 @@ To know how to install and configure Kognifai Application Framework, refer to
 * [Step 3: Start the application](https://github.com/chrisjohn727/sample/wiki/Step-3:-Start-the-application)
 
 
-### Building your First Kognifai App
+## Building your First Kognifai App
 You can start building your first Koginifai App by using Yeoman, a scaffolding app. Yeoman app will help you create the template for your application. This article provides simple steps of using Yeoman app and the sample codes that you can use to jump-start your application development.
 * [Getting Started with Yeoman App](https://github.com/chrisjohn727/sample/wiki/Getting-Started-with-Yeoman-App)
 
-### What will you get
+## What will you get
 After creating an empty kognifai application framework App based on the Yeoman template, you will get the following solution structure:
 * [HelloPoseidon.manifest.json](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/HelloPoseidon.manifest.json)
 * [HelloPoseidon.module.ts](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/HelloPoseidon.module.ts)
@@ -29,10 +29,10 @@ After creating an empty kognifai application framework App based on the Yeoman t
 * [install-module.cmd](https://github.com/chrisjohn727/sample/blob/master/HelloPoseidon/install-module.cmd)
 * [uninstall-module.cmd](https://github.com/chrisjohn727/sample/blob/master/HelloPoseidon/uninstall-module.cmd)
   
- ### Create Sample Poseidon Instrument 
+ ## Create Sample Poseidon Instrument 
 When creating an empty Poseidon Instruments Package the result is a sample instrument package structure that can be populated with instruments such as dashboard instruments. This article provides a sample code for a platform instrument that you can use to jumpstart your development. 
 
-### Sample Widget Package
+## Sample Widget Package
 The newly created sample Widgets Package project is the developer’s entry point for creating a widget. User defined widgets will be placed in the “widgets” project folder.
 * [app > localization > Locale-en.ts](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/app%20%3E%20localization%20%3E%20Locale-en.ts)
 * [styles > instruments > _newInstrument.scss](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/styles%20%3E%20instruments%20%3E%20_newInstrument.scss)
@@ -51,7 +51,7 @@ The newly created sample Widgets Package project is the developer’s entry poin
 * [package.json](https://github.com/chrisjohn727/sample/blob/master/Sample%20Poseidon%20Instrument/package.json)
 * [Web.config](https://github.com/chrisjohn727/sample/blob/master/Sample%20Poseidon%20Instrument/Web.config_1)
 
-### Kognifai instrument
+## Kognifai instrument
 
 #### Quick Start
 * [Step 1. Set up the Development Environment](https://github.com/chrisjohn727/sample/wiki/Set-up-the-Development-Environment)
@@ -61,3 +61,5 @@ The newly created sample Widgets Package project is the developer’s entry poin
 ### Basic use
 * [Application Files](https://github.com/chrisjohn727/sample/wiki/Application-Files)
 * [Build Process](https://github.com/chrisjohn727/sample/wiki/Build-Process)
+
+## License
