@@ -12,10 +12,7 @@ To know how to install and configure Kognifai Application Framework, refer to
 ## QuickStart
 * [Step 1. Set up the Development Environment](https://github.com/chrisjohn727/sample/wiki/Set-up-the-Development-Environment)
 
-#### Step 2. Create a new project
 
-After that you can simply create a new Poseidon Application from Visual Studio (version 2017) which will provide us with basic necessary files required by a Kognifai application. 
-To create a new application project, choose the **New Project** option and select the **Poseidon Application template** in the **TypeScript** section. Enter the name of the project. For example **SamplePoseidonApp**:
 
 #### Step 3: Start the application
 
