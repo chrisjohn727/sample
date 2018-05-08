@@ -11,7 +11,7 @@ To know how to install and configure Kognifai Application Framework, refer to
 
 ## QuickStart
 * [Step 1. Set up the Development Environment](https://github.com/chrisjohn727/sample/wiki/Set-up-the-Development-Environment)
-
+* [Step 2. Create a new project](https://github.com/chrisjohn727/sample/wiki/Step-2.-Create-a-new-project)
 
 
 #### Step 3: Start the application
