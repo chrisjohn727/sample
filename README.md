@@ -112,9 +112,7 @@ The newly created sample Widgets Package project is the developer’s entry poin
 ### Kognifai instrument
 
 #### Quick Start
-
-#### Step 1. Set up the Development Environment
-To install the Poseidon Tools exstension for Visual Studio download Kognifai template extensions.vsix from https://github.com/kognifai/GST-Intruments/tree/master/Visual%20Studio%20Extensions and start it.
+* [Step 1. Set up the Development Environment](https://github.com/chrisjohn727/sample/wiki/Set-up-the-Development-Environment)
 
 #### Step 2. Create a new project
 
@@ -130,13 +128,6 @@ Select Local IIS from the dropdown and enter the correct path to Poseidon local 
 
 We need to use the Poseidon Module Installer tool in order to register our new application. In the generated project there is already a cmd scripts that invokes the installer. First we need to ensure that the path to Poseidon.Module.Installer.exe is correct in the install-module.cmd file located in the newly created project:
 
-```
-@ECHO OFF
-SET moduleInstaller="Disk:\%PoseidonSourceDir%\Platform\DEV\Poseidon.Module.Installer\bin\Debug\Poseidon.Module.Installer.exe"
-SET manifest=SamplePoseidonInstrument.manifest.json
-CALL %moduleInstaller% install %manifest%
-PAUSE
-```
 Then simply run install-module.cmd and “Module installed successfully” message should be shown.
 In order to open the new instrument, just browse your local Kognifai instance. 
 Open New Dashboard from Dashboards application in Tools menu and then open Toolbox menu from right upper corner of the screen. Then you should see our newly created SamplePoseidonInstrument located in ‘Custom’ category.
