@@ -12,6 +12,7 @@ To know how to install and configure Kognifai Application Framework, refer to
 ## QuickStart
 * [Step 1. Set up the Development Environment](https://github.com/chrisjohn727/sample/wiki/Set-up-the-Development-Environment)
 * [Step 2. Create a new project](https://github.com/chrisjohn727/sample/wiki/Step-2.-Create-a-new-project)
+* [Step 3: Start the application](https://github.com/chrisjohn727/sample/wiki/Step-3.-Start-the-application)
 
 ### Building your First Kognifai App
 You can start building your first Koginifai App by using Yeoman, a scaffolding app. Yeoman app will help you create the template for your application. This article provides simple steps of using Yeoman app and the sample codes that you can use to jump-start your application development.
