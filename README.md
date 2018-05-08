@@ -13,11 +13,11 @@ To know how to install and configure Kognifai Application Framework, refer to
 * [Step 1. Set up the Development Environment](https://github.com/chrisjohn727/sample/wiki/Set-up-the-Development-Environment)
 * [Step 2. Create a new project](https://github.com/chrisjohn727/sample/wiki/Step-2.-Create-a-new-project)
 * [Step 3: Start the application](https://github.com/chrisjohn727/sample/wiki/Step-3:-Start-the-application)
-* [Getting Started with Yeoman App](https://github.com/chrisjohn727/sample/wiki/Getting-Started-with-Yeoman-App)
+
 
 ### Building your First Kognifai App
 You can start building your first Koginifai App by using Yeoman, a scaffolding app. Yeoman app will help you create the template for your application. This article provides simple steps of using Yeoman app and the sample codes that you can use to jump-start your application development.
-
+* [Getting Started with Yeoman App](https://github.com/chrisjohn727/sample/wiki/Getting-Started-with-Yeoman-App)
 
 ### What will you get
 After creating an empty kognifai application framework App based on the Yeoman template, you will get the following solution structure:
@@ -55,11 +55,7 @@ The newly created sample Widgets Package project is the developer’s entry poin
 
 #### Quick Start
 * [Step 1. Set up the Development Environment](https://github.com/chrisjohn727/sample/wiki/Set-up-the-Development-Environment)
-
-#### Step 2. Create a new project
-
-After that you can simply create a new Poseidon Instrument Package from Visual Studio which will provide us with basic necessary files required by a Kognifai instrument.
-To create a new instrument project, choose File, New Project option and select the Poseidon Instrument Package template in the TypeScript section. Enter the name of the project. For example SamplePoseidonInstrument:
+* [Step 2. Create a new project](https://github.com/chrisjohn727/sample/wiki/Kognifai-Instrument_Step-2.-Create-a-new-project)
 
 #### Step 3: Run the instrument in the platform
 
