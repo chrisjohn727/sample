@@ -59,7 +59,7 @@ The newly created sample Widgets Package project is the developer’s entry poin
 * [Step 3. Run the instrument in the platform](https://github.com/chrisjohn727/sample/wiki/Step-3:-Run-the-instrument-in-the-platform)
 
 ### Basic use
-
+* [Application Files](https://github.com/chrisjohn727/sample/wiki/Application-Files)
 
 ### Styles
 The project assumes the use of SASS to define styles for the instrument. The build process compiles the sass files in the styles folder to CSS. An additional plugin is used (autoprefixer) to automatically add vendor prefixes to properties. This can save a bit of extra typing in some cases. Note that you should define the CSS rules in such a way as to avoid potential collisions with other instruments. A useful technique is to nest all selectors inside a unique class selector for this instrument.
