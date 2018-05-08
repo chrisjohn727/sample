@@ -184,3 +184,42 @@ Here an angular directive is created in Typescript. Created properties of return
 
 #### newInstrumentRegister.ts:
 Here we register the instrument in the ‘dashboardProvider’ service which will enable the Display Framework to see it and define the configuration attributes of the instrument
+
+### Styles
+The project assumes the use of SASS to define styles for the instrument. The build process compiles the sass files in the styles folder to CSS. An additional plugin is used (autoprefixer) to automatically add vendor prefixes to properties. This can save a bit of extra typing in some cases. Note that you should define the CSS rules in such a way as to avoid potential collisions with other instruments. A useful technique is to nest all selectors inside a unique class selector for this instrument.
+#### newInstrument.scss:
+The file located in styles/instruments/ folder is the instrument’s style file. Here you should add your CSS rules that will define how your instrument looks.
+
+### Build Process
+The build process of the project is extended by using gulp tasks integrated with the MSBuild process. It should be noted that the template does not cover the automatic generation of deployment files at this point.
+
+Gulp is a node.js module that supports the definition and execution of build tasks. It uses a pipe/filter architecture. In a standard flow you first use read a bunch of files into a stream, then you apply various transformations and finally write the result to the file system. Gulp itself provides just the bare minimum to do that. Everything else is handled by other npm modules.
+The central file to the build process is gulpfile.js. Here we use standard node.js syntax to imperatively define various useful build tasks.
+
+``` typescript
+gulp.task('default', ['help']);
+
+gulp.task('help', listing);
+
+if (args.release) {
+    gulp.task("build", function (callback) {
+        sequence(['compile:styles', 'compile:templates', 'compile:typescript', 'bundle:dependencies', 'generate:database-scripts'],
+            ['optimize'],
+            callback);
+    });
+}
+else {
+    gulp.task("build", function (callback) {
+        sequence(['compile:styles', 'compile:templates', 'compile:typescript', 'bundle:dependencies', 'generate:database-scripts'],
+            //'compile:tests',
+            //'run:unittests',
+            callback);
+    });
+}
+
+gulp.task('watch', ['watch:typescript', 'watch:styles', 'watch:templates']);
+
+gulp.task('clean', ['clean:typescript', 'clean:styles', 'clean:templates', 'clean:dependencies', 'clean:database-scripts']);
+```
+They can be invoked by using command line. The build and clean tasks are directly tied to the MSBuild process and can be triggered from Visual Studio.
+
