@@ -60,8 +60,7 @@ The newly created sample Widgets Package project is the developer’s entry poin
 
 ### Basic use
 * [Application Files](https://github.com/chrisjohn727/sample/wiki/Application-Files)
-
-
+* [Styles](https://github.com/chrisjohn727/sample/wiki/Styles)
 
 ### Build Process
 The build process of the project is extended by using gulp tasks integrated with the MSBuild process. It should be noted that the template does not cover the automatic generation of deployment files at this point.
