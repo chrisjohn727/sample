@@ -8,7 +8,7 @@ Also, we assume that you are currently running a development instance of Kognifa
 
 ## Install
 
-To install and configure Kognifai Application Framework, refer to  
+To install and configure Kognifai Application Framework, refer to: 
 * [Install and Configure Application Framework](https://github.com/chrisjohn727/sample/wiki).
 
 ## QuickStart
@@ -18,7 +18,7 @@ To install and configure Kognifai Application Framework, refer to
 
 
 ## Building your First Kognifai App
-You can start building your first Koginifai App by using Yeoman, a scaffolding app. Yeoman app will help you create the template for your application. This article provides simple steps of using Yeoman app and the sample codes that you can use to jump-start your application development.
+You can start building your first Koginifai App by using Yeoman, a scaffolding app. Yeoman app helps you to create the templates for your application. This article provides simple steps on how to use the Yeoman app and the sample codes to jump-start your application development.
 * [Getting Started with Yeoman App](https://github.com/chrisjohn727/sample/wiki/Getting-Started-with-Yeoman-App)
 
 ## What will you get
@@ -32,10 +32,10 @@ After creating an empty kognifai application framework App based on the Yeoman t
 * [uninstall-module.cmd](https://github.com/chrisjohn727/sample/blob/master/HelloPoseidon/uninstall-module.cmd)
   
  ## Create Sample Poseidon Instrument 
-When creating an empty Poseidon Instruments Package the result is a sample instrument package structure that can be populated with instruments such as dashboard instruments. This article provides a sample code for a platform instrument that you can use to jumpstart your development. 
+The successfull creation of an empty Poseidon Instruments Package results a sample instrument package structure that can be populated with instruments such as dashboard instruments. This article provides a sample code for a platform instrument that you can use to jump-start your development. 
 
 ## Sample Widget Package
-The newly created sample Widgets Package project is the developer’s entry point for creating a widget. User defined widgets will be placed in the “widgets” project folder.
+The newly created sample Widgets Package project is the developer’s entry point for creating a new widget. User defined widgets are stored in the “widgets” project folder.
 * [app > localization > Locale-en.ts](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/app%20%3E%20localization%20%3E%20Locale-en.ts)
 * [styles > instruments > _newInstrument.scss](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/styles%20%3E%20instruments%20%3E%20_newInstrument.scss)
 * [app > instruments > newInstrument > newInstrument.html](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/app%20%3E%20instruments%20%3E%20newInstrument%20%3E%20newInstrument.html)
