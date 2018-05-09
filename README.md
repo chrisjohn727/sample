@@ -10,7 +10,7 @@ Also, we assume that you are currently running a development instance of Kognifa
 
 To install and configure Kognifai Application Framework, refer to: 
 * [Install and Configure Application Framework](https://github.com/chrisjohn727/sample/wiki).
-//https://github.com/chrisjohn727/sample/blob/master/sample.md
+* [Sample](https://github.com/chrisjohn727/sample/blob/master/sample.md)
 
 ## QuickStart
 * [Step 1. Set up the Development Environment](https://github.com/chrisjohn727/sample/wiki/Set-up-the-Development-Environment)
