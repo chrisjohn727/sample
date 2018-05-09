@@ -1,6 +1,4 @@
-app > localization > Locale-en.ts
-In the localization files you can add any necessary key/value pairs that would need translating.
-
+//typescript
 module MyPoseidonWidgetsPackage1 {
 
     angular
