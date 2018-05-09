@@ -2,11 +2,13 @@
 __Welcome to Kognifai Application Framework__. This repository guides you to create your first Poseidon Module, Widget, a Kognifai (Yeoman) application and samples for each of them.
 
 ## Create Your First Module 
-Creating Kognifai applications has its specifics, as is the case with any other platform. In order to ease the burden on developers we provide a Visual Studio project template to give them a useful starting point and create the basic artefacts required by Kognifai. 
+Creating Kognifai application has its own specifications as it is the  same case with any other platforms. Application Framework provides a Visual Studio project template to create the basic artefacts required by Kognifai. 
 
-This guide assumes that you are running a development instance of Kognifai and have completed the necessary steps to successfully do so.
+Also, we assume that you are currently running a development instance of Kognifai and have already completed the neccessary steps to run this instance.
 
-To know how to install and configure Kognifai Application Framework, refer to  
+## Install
+
+To install and configure Kognifai Application Framework, refer to  
 * [Install and Configure Application Framework](https://github.com/chrisjohn727/sample/wiki).
 
 ## QuickStart
