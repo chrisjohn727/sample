@@ -27,6 +27,7 @@ After creating an empty kognifai application framework App based on the Yeoman t
 * HelloPoseidon.manifest.json
 
   The manifest file is used by the Poseidon Module Installer to register the new module in the DB.
+  
   * [Sample HelloPoseidon.manifest.json code] (https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/HelloPoseidon.manifest.json)
 * [HelloPoseidon.module.ts](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/HelloPoseidon.module.ts)
 * [mainView.html](https://github.com/chrisjohn727/sample/blob/master/HelloPoseidon/mainView.html)
