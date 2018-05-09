@@ -35,10 +35,12 @@ After creating an empty kognifai application framework App based on the Yeoman t
    In this file the root Angular module for the application is registered. Also some additional configuration can be performed, e.g.  creating a state, registering the app in the ‘navigationService’, etc.
    
     [Sample HelloPoseidon.module.ts code](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/HelloPoseidon.module.ts)
-   * [mainView.html]
+ 
+ * [mainView.html]
+ 
      This is the main view of the new application. You can compose your content inside.
      
-     * [sample mainView.html code](https://github.com/chrisjohn727/sample/blob/master/HelloPoseidon/mainView.html)
+     [sample mainView.html code](https://github.com/chrisjohn727/sample/blob/master/HelloPoseidon/mainView.html)
      
 * [Web.config](https://github.com/chrisjohn727/sample/blob/master/HelloPoseidon/Web.config)
 * [Locale-en.ts](https://github.com/chrisjohn727/sample/blob/master/HelloPoseidon/Locale-en.ts)
