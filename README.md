@@ -29,7 +29,11 @@ After creating an empty kognifai application framework App based on the Yeoman t
   The manifest file is used by the Poseidon Module Installer to register the new module in the DB.
   
   * [Sample HelloPoseidon.manifest.json code] (https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/HelloPoseidon.manifest.json)
-* [HelloPoseidon.module.ts](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/HelloPoseidon.module.ts)
+ * HelloPoseidon.module.ts
+ 
+   In this file the root Angular module for the application is registered. Also some additional configuration can be performed, e.g.  creating a state, registering the app in the ‘navigationService’, etc.
+   
+* [Sample HelloPoseidon.module.ts code](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/HelloPoseidon.module.ts)
 * [mainView.html](https://github.com/chrisjohn727/sample/blob/master/HelloPoseidon/mainView.html)
 * [Web.config](https://github.com/chrisjohn727/sample/blob/master/HelloPoseidon/Web.config)
 * [Locale-en.ts](https://github.com/chrisjohn727/sample/blob/master/HelloPoseidon/Locale-en.ts)
