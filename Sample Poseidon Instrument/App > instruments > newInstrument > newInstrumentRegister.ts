@@ -1,6 +1,4 @@
-App > instruments > newInstrument > newInstrumentRegister.ts
-It is used to bootstrap the widget and define its meta properties
-
+// typescript
 module PoseidonWidgetsPackage {
 
     angular.module('PoseidonWidgetsPackage').config(newInstrumentConfigFunction);
