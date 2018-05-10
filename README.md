@@ -74,11 +74,11 @@ The newly created sample Widgets Package project is the developer’s entry poin
    [ sample app > instruments > newInstrument > newInstrumentConfig.ts code](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/app%20%3E%20instruments%20%3E%20newInstrument%20%3E%20newInstrumentConfig.ts)
 * app >  instruments > newInstrument > newInstrumentController.ts
 
-It defines how the data is displayed. You can also use the file to:
-   * create your property panel structure,
-   * define custom/private properties (aside from the ones in the ‘config’) 
+   It defines how the data is displayed. You can also use the file to:
+      * create your property panel structure,
+      * define custom/private properties (aside from the ones in the ‘config’) 
 
-[app >  instruments > newInstrument > newInstrumentController.ts](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/app%20%3E%20%20instruments%20%3E%20newInstrument%20%3E%20newInstrumentController.ts
+   [sample app >  instruments > newInstrument > newInstrumentController.ts code](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/app%20%3E%20%20instruments%20%3E%20newInstrument%20%3E%20newInstrumentController.ts
 )
 * [app > instruments > newInstrument > newInstrumentEdit.html](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/app%20%3E%20instruments%20%3E%20newInstrument%20%3E%20newInstrumentEdit.html)
 * [App > instruments > newInstrument > newInstrumentDataController.ts](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/App%20%3E%20instruments%20%3E%20newInstrument%20%3E%20newInstrumentDataController.ts
