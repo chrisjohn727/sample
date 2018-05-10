@@ -103,7 +103,11 @@ The newly created sample Widgets Package project is the developer’s entry poin
 
   [sample App > instruments > newInstrument > newInstrumentRegister.ts code](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/App%20%3E%20instruments%20%3E%20newInstrument%20%3E%20newInstrumentRegister.ts
 )
-* [Application.manifest.json](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/Application.manifest.json)
+* Application.manifest.json
+
+  The manifest file is used by the Poseidon Module Installer to register the new module in the DB.
+
+  [Application.manifest.json](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/Application.manifest.json)
 * [package.json](https://github.com/chrisjohn727/sample/blob/master/Sample%20Poseidon%20Instrument/package.json)
 * [Web.config](https://github.com/chrisjohn727/sample/blob/master/Sample%20Poseidon%20Instrument/Web.config_1)
 
