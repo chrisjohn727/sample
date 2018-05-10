@@ -1,6 +1,4 @@
-App > instruments > newInstrument > newInstrumentDataController.ts
-In this file you should include any logic that defines how data is edited and loaded in your widget. Also, it is responsible how the data will be updated/refreshed.
-
+//typescript
 module PoseidonWidgetsPackage {
     "use strict";
 
