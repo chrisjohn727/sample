@@ -1,5 +1,3 @@
-package.json
-The package.json file lists your modules/dependencies and configures how ‘npm’ should behave when installing them.
 
 {
     "version": "1.0.0",
