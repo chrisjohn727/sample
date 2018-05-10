@@ -88,9 +88,14 @@ The newly created sample Widgets Package project is the developer’s entry poin
 * App > instruments > newInstrument > newInstrumentDataController.ts
 
   In this file you should include any logic that defines how data is edited and loaded in your widget. Also, it is responsible how the   data will be updated/refreshed.
+  
   [sample App > instruments > newInstrument > newInstrumentDataController.ts](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/App%20%3E%20instruments%20%3E%20newInstrument%20%3E%20newInstrumentDataController.ts
 )
-* [App > instruments > newInstrument > newInstrumentDirective.ts](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/App%20%3E%20instruments%20%3E%20newInstrument%20%3E%20newInstrumentDirective.ts
+* App > instruments > newInstrument > newInstrumentDirective.ts
+
+  It defines the web component that encapsulates the widget UI.
+  
+  [ sample App > instruments > newInstrument > newInstrumentDirective.ts](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/App%20%3E%20instruments%20%3E%20newInstrument%20%3E%20newInstrumentDirective.ts
 )
 * [App > instruments > newInstrument > newInstrumentRegister.ts](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/App%20%3E%20instruments%20%3E%20newInstrument%20%3E%20newInstrumentRegister.ts
 )
