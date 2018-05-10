@@ -1,8 +1,4 @@
-app >  instruments > newInstrument > newInstrumentController.ts
-It defines how the data is displayed. You can also use the file to:
- •	create your property panel structure,
- •	define custom/private properties (aside from the ones in the ‘config’) 
-
+//typescript
 module PoseidonWidgetsPackage {
     "use strict";
 
