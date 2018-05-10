@@ -13,7 +13,6 @@ To install and configure Kognifai Application Framework, refer to:
 
 ## QuickStart
 * [Step 1. Set up the Development Environment](https://github.com/chrisjohn727/sample/blob/master/Set%20up%20the%20Development%20Environment.md)
-[Step 1. Set up the Development Environment](https://github.com/chrisjohn727/sample/wiki/Set-up-the-Development-Environment)
 * [Step 2. Create a new project](https://github.com/chrisjohn727/sample/wiki/Step-2.-Create-a-new-project)
 * [Step 3: Start the application](https://github.com/chrisjohn727/sample/wiki/Step-3:-Start-the-application)
 
@@ -112,13 +111,13 @@ The newly created sample Widgets Package project is the developer’s entry poin
 
   The package.json file lists your modules/dependencies and configures how ‘npm’ should behave when installing them.
 
-  [package.json](https://github.com/chrisjohn727/sample/blob/master/Sample%20Poseidon%20Instrument/package.json)
+  [sample package.json](https://github.com/chrisjohn727/sample/blob/master/Sample%20Poseidon%20Instrument/package.json)
 * [Web.config](https://github.com/chrisjohn727/sample/blob/master/Sample%20Poseidon%20Instrument/Web.config_1)
 
 ## Kognifai instrument
 
 #### Quick Start
-* [Step 1. Set up the Development Environment](https://github.com/chrisjohn727/sample/wiki/Set-up-the-Development-Environment)
+* [Step 1. Set up the Development Environment](https://github.com/chrisjohn727/sample/blob/master/Set%20up%20the%20Development%20Environment.md)
 * [Step 2. Create a new project](https://github.com/chrisjohn727/sample/wiki/Kognifai-Instrument_Step-2.-Create-a-new-project)
 * [Step 3. Run the instrument in the platform](https://github.com/chrisjohn727/sample/wiki/Step-3:-Run-the-instrument-in-the-platform)
 
