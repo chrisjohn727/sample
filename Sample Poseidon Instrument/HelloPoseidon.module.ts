@@ -1,3 +1,4 @@
+//typescript
 module HelloPoseidon {
     angular.module('HelloPoseidon', ['Poseidon'])
         .config(function ($stateProvider: ng.ui.IStateProvider) {
