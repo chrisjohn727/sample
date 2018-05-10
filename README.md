@@ -46,7 +46,10 @@ After creating an empty kognifai application framework App based on the Yeoman t
 * [Locale-en.ts]
 
     This file is responsible to store localization of the application. If localization is not a requirement it can be removed. 
-* [install-module.cmd](https://github.com/chrisjohn727/sample/blob/master/HelloPoseidon/install-module.cmd)
+* [install-module.cmd]
+
+    This file simplifies the registration of the module in kognifai Application Framework.
+
 * [uninstall-module.cmd](https://github.com/chrisjohn727/sample/blob/master/HelloPoseidon/uninstall-module.cmd)
   
  ## Create Sample Poseidon Instrument 
