@@ -1,6 +1,4 @@
-App > instruments > newInstrument > newInstrumentDirective.ts
-It defines the web component that encapsulates the widget UI.
-
+//typescript
 module PoseidonWidgetsPackage {
     'use strict';
 
