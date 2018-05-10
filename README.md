@@ -43,14 +43,17 @@ After creating an empty kognifai application framework App based on the Yeoman t
      [sample mainView.html code](https://github.com/chrisjohn727/sample/blob/master/HelloPoseidon/mainView.html)
      
 * [Web.config](https://github.com/chrisjohn727/sample/blob/master/HelloPoseidon/Web.config)
-* [Locale-en.ts]
+* Locale-en.ts
 
     This file is responsible to store localization of the application. If localization is not a requirement it can be removed. 
-* [install-module.cmd]
+    
+* install-module.cmd
 
     This file simplifies the registration of the module in kognifai Application Framework.
 
-* [uninstall-module.cmd](https://github.com/chrisjohn727/sample/blob/master/HelloPoseidon/uninstall-module.cmd)
+* uninstall-module.cmd
+
+    This file simplifies the uninstallation of the module in kognifai Application Framework.
   
  ## Create Sample Poseidon Instrument 
 The successfull creation of an empty Poseidon Instruments Package results a sample instrument package structure that can be populated with instruments such as dashboard instruments. This article provides a sample code for a platform instrument that you can use to jump-start your development. 
