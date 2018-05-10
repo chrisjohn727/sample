@@ -45,7 +45,7 @@ After creating an empty kognifai application framework App based on the Yeoman t
 * [Web.config](https://github.com/chrisjohn727/sample/blob/master/HelloPoseidon/Web.config)
 * [Locale-en.ts]
 
-    This file is responsible to store localization of the application. If localization is not a requirement it can be 
+    This file is responsible to store localization of the application. If localization is not a requirement it can be removed. 
 * [install-module.cmd](https://github.com/chrisjohn727/sample/blob/master/HelloPoseidon/install-module.cmd)
 * [uninstall-module.cmd](https://github.com/chrisjohn727/sample/blob/master/HelloPoseidon/uninstall-module.cmd)
   
