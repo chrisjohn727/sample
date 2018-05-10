@@ -1,5 +1,3 @@
-app > instruments > newInstrument > newInstrumentConfig.ts
-The widget’s config file is used to define the configuration attributes/properties of the widget.
 
 module PoseidonWidgetsPackage {
     'use strict';
