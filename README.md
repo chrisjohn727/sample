@@ -107,8 +107,12 @@ The newly created sample Widgets Package project is the developer’s entry poin
 
   The manifest file is used by the Poseidon Module Installer to register the new module in the DB.
 
-  [Application.manifest.json](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/Application.manifest.json)
-* [package.json](https://github.com/chrisjohn727/sample/blob/master/Sample%20Poseidon%20Instrument/package.json)
+  [sample Application.manifest.json](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/Application.manifest.json)
+* package.json
+
+  The package.json file lists your modules/dependencies and configures how ‘npm’ should behave when installing them.
+
+  [package.json](https://github.com/chrisjohn727/sample/blob/master/Sample%20Poseidon%20Instrument/package.json)
 * [Web.config](https://github.com/chrisjohn727/sample/blob/master/Sample%20Poseidon%20Instrument/Web.config_1)
 
 ## Kognifai instrument
