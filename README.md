@@ -59,7 +59,7 @@ After creating an empty kognifai application framework App based on the Yeoman t
 The successfull creation of an empty Poseidon Instruments Package results a sample instrument package structure that can be populated with instruments such as dashboard instruments. This article provides a sample code for a platform instrument that you can use to jump-start your development. 
 
 ## Sample Widget Package
-The newly created sample Widgets Package project is the developer’s entry point for creating a new widget. User defined widgets are stored in the “widgets” project folder.
+The newly created sample Widgets Package project is the developer’s entry point for creating a new widget. User defined widgets are stored in the **widgets** project folder.
 * [app > localization > Locale-en.ts](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/app%20%3E%20localization%20%3E%20Locale-en.ts)
 * [styles > instruments > _newInstrument.scss](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/styles%20%3E%20instruments%20%3E%20_newInstrument.scss)
 * [app > instruments > newInstrument > newInstrument.html](https://github.com/chrisjohn727/sample/blob/master//Sample%20Poseidon%20Instrument/app%20%3E%20instruments%20%3E%20newInstrument%20%3E%20newInstrument.html)
