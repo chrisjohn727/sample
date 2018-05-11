@@ -122,7 +122,7 @@ The newly created sample Widgets Package project is the developer’s entry poin
 * [Step 3. Run the instrument in the platform](https://github.com/chrisjohn727/sample/blob/master/lnkdpages/Kognifai%20Instrument.md)
 
 ### Basic use
-* [Application Files](https://github.com/chrisjohn727/sample/blob/master/lnkdpages/Application%20Files)
+* [Application Files](https://github.com/chrisjohn727/sample/blob/master/lnkdpages/Application%20Files.md)
 * [Build Process](https://github.com/chrisjohn727/sample/wiki/Build-Process)
 
 ## License
