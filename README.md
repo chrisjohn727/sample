@@ -23,6 +23,9 @@ You can start building your first Koginifai App by using Yeoman, a scaffolding a
 
 ## What will you get
 After creating an empty kognifai application framework App based on the Yeoman template, you will get the following solution structure:
+
+![](https://github.com/chrisjohn727/sample/blob/master/images/node_modules.png)
+
 * HelloPoseidon.manifest.json
 
   The manifest file is used by the Poseidon Module Installer to register the new module in the DB.
