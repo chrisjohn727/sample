@@ -123,6 +123,6 @@ The newly created sample Widgets Package project is the developer’s entry poin
 
 ### Basic use
 * [Application Files](https://github.com/chrisjohn727/sample/blob/master/lnkdpages/Application%20Files.md)
-* [https://github.com/chrisjohn727/sample/blob/master/lnkdpages/Build%20Process.md)
+* [Build Process ](https://github.com/chrisjohn727/sample/blob/master/lnkdpages/Build%20Process.md)
 
 ## License
