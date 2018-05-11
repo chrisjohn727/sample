@@ -117,9 +117,9 @@ The newly created sample Widgets Package project is the developer’s entry poin
 ## Kognifai instrument
 
 #### Quick Start
-* [Step 1. Set up the Development Environment](https://github.com/chrisjohn727/sample/blob/master/Set%20up%20the%20Development%20Environment.md)
-* [Step 2. Create a new project](https://github.com/chrisjohn727/sample/wiki/Kognifai-Instrument_Step-2.-Create-a-new-project)
-* [Step 3. Run the instrument in the platform](https://github.com/chrisjohn727/sample/wiki/Step-3:-Run-the-instrument-in-the-platform)
+* [Step 1. Set up the Development Environment](https://github.com/chrisjohn727/sample/blob/master/lnkdpages/Kognifai%20Instrument.md)
+* [Step 2. Create a new project](https://github.com/chrisjohn727/sample/blob/master/lnkdpages/Kognifai%20Instrument.md)
+* [Step 3. Run the instrument in the platform](https://github.com/chrisjohn727/sample/blob/master/lnkdpages/Kognifai%20Instrument.md)
 
 ### Basic use
 * [Application Files](https://github.com/chrisjohn727/sample/wiki/Application-Files)
