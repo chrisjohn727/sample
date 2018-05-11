@@ -9,6 +9,8 @@ and start it.
 After that you can simply create a new Poseidon Application from Visual Studio (version 2017) which will provide us with basic necessary files required by a Kognifai application. 
 To create a new application project, choose the **New Project** option and select the **Poseidon Application template** in the **TypeScript** section. Enter the name of the project. For example **SamplePoseidonApp**:
 
+!(https://github.com/chrisjohn727/sample/blob/master/images/SamplePoseidonApp.png)
+
 #### Step 3: Start the application
 
 Now we need to build our new project. 
