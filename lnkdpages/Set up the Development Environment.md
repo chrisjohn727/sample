@@ -18,6 +18,7 @@ Now we need to build our new project.
 When the build finishes right-click on the project from the source in the solution explorer. Choose Properties and then Web from the left navigation menu:
 
 ![](https://github.com/chrisjohn727/sample/blob/master/images/Sample%20PoseidonApp_2.png)
+
 Select Local IIS from the dropdown and enter the correct path to Poseidon local IIS instance + the base path to application files **Server/Modules/SamplePoseidonApp**. 
 We need to use the Poseidon Module Installer tool in order to register our new application. In the generated project there is already a cmd script that invokes the installer. First we need to ensure that the path to Poseidon.Module.Installer.exe is correct in the install-module.cmd file located in the newly created project:
 * [Poseidon.Module.Installer.exe](https://github.com/chrisjohn727/sample/blob/master/App%20Framework/Poseidon.Module.Installer)
