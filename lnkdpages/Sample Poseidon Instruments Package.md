@@ -27,6 +27,8 @@ Then simply run install-module.cmd and “Module installed successfully” messa
 In order to open the new instrument, just browse your local Kognifai instance. 
 Open New Dashboard from Dashboards application in Tools menu and then open Toolbox menu from right upper corner of the screen. Then you should see our newly created SamplePoseidonInstrument located in ‘Custom’ category.
 
+![](https://github.com/chrisjohn727/sample/blob/master/images/Toolbox.png)
+
 Add it to your Dashboard:
 
 What you see is actually the code from newInstrument.html file located in app/instruments/newInstrument folder.
