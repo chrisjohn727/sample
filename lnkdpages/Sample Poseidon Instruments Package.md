@@ -31,6 +31,8 @@ Open New Dashboard from Dashboards application in Tools menu and then open Toolb
 
 Add it to your Dashboard:
 
+![](https://github.com/chrisjohn727/sample/blob/master/images/Dashboard.png)
+
 What you see is actually the code from newInstrument.html file located in app/instruments/newInstrument folder.
 If you click on the wheel at the top right corner of the instrument you will see the editing panel. The markup for it is located also in app/instruments/newInstrument folder of your project at newInstrumentEdit.html file.
 
