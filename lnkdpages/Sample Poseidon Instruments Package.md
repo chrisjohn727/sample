@@ -36,4 +36,6 @@ Add it to your Dashboard:
 What you see is actually the code from newInstrument.html file located in app/instruments/newInstrument folder.
 If you click on the wheel at the top right corner of the instrument you will see the editing panel. The markup for it is located also in app/instruments/newInstrument folder of your project at newInstrumentEdit.html file.
 
+![](https://github.com/chrisjohn727/sample/blob/master/images/General.png)
+
 We have created a very basic Kognifai instrument.
