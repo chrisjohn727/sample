@@ -16,6 +16,8 @@ For example **SamplePoseidonInstrument**:
 Now we need to build our new project. 
 Wait the npm to download all of its packages and when the build finishes right-click on the project from the source in the solution explorer. Choose Properties and then Web from the left navigation menu:
 
+![](https://github.com/chrisjohn727/sample/blob/master/images/SamplePoseidonInstrument_Web.png)
+
 Select Local IIS from the dropdown and enter the correct path to Poseidon local IIS instance + the base path to application files Server/Modules/SamplePoseidonInstrument. 
 * [Poseidon.Module.Installer.exe](https://github.com/chrisjohn727/sample/blob/master/App%20Framework/Poseidon.Module.Installer)
 
