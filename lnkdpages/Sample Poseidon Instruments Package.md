@@ -5,7 +5,11 @@ https://github.com/kognifai/GST-Intruments/tree/master/Visual%20Studio%20Extensi
 and start it.
 
 #### Step 2. Create a new project
-After that you can simply create a new Poseidon Instrument Package from Visual Studio which will provide us with basic necessary files required by a Kognifai instrument. To create a new instrument project, choose File, New Project option and select the Poseidon Instrument Package template in the TypeScript section. Enter the name of the project. For example SamplePoseidonInstrument:
+After that you can simply create a new Poseidon Instrument Package from Visual Studio which will provide us with basic necessary files required by a Kognifai instrument. To create a new instrument project, choose **File**, **New Project** option and select the **Poseidon Instrument Package** template in the **TypeScript** section. Enter the name of the project. 
+
+For example **SamplePoseidonInstrument**:
+
+![](https://github.com/chrisjohn727/sample/blob/master/images/SamplePoseidonInstrument.png)
 
 #### Step 3: Run the instrument in the platform
 
