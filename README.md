@@ -122,9 +122,9 @@ The newly created sample Widgets Package project is the developer’s entry poin
 ## Sample Poseidon instrument
 
 #### Quick Start
-* [Step 1. Set up the Development Environment](https://github.com/chrisjohn727/sample/blob/master/lnkdpages/Kognifai%20Instrument.md)
-* [Step 2. Create a new project](https://github.com/chrisjohn727/sample/blob/master/lnkdpages/Kognifai%20Instrument.md)
-* [Step 3. Run the instrument in the platform](https://github.com/chrisjohn727/sample/blob/master/lnkdpages/Kognifai%20Instrument.md)
+* [Step 1. Set up the Development Environment](https://github.com/chrisjohn727/sample/blob/master/lnkdpages/Sample%20Poseidon%20Instruments%20Package.md)
+* [Step 2. Create a new project](https://github.com/chrisjohn727/sample/blob/master/lnkdpages/Sample%20Poseidon%20Instruments%20Package.md)
+* [Step 3. Run the instrument in the platform](https://github.com/chrisjohn727/sample/blob/master/lnkdpages/Sample%20Poseidon%20Instruments%20Package.md)
 
 ### Basic use
 * [Application Files](https://github.com/chrisjohn727/sample/blob/master/lnkdpages/Application%20Files.md)
