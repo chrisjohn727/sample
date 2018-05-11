@@ -19,7 +19,7 @@ To install and configure Kognifai Application Framework, refer to:
 
 ## Building your First Kognifai App
 You can start building your first Koginifai App by using Yeoman, a scaffolding app. Yeoman app helps you to create the templates for your application. This article provides simple steps on how to use the Yeoman app and the sample codes to jump-start your application development.
-* [Getting Started with Yeoman App](https://github.com/chrisjohn727/sample/wiki/Getting-Started-with-Yeoman-App)
+* [Getting Started with Yeoman App](https://github.com/chrisjohn727/sample/blob/master/lnkdpages/Getting%20Started%20with%20Yeoman%20App.md)
 
 ## What will you get
 After creating an empty kognifai application framework App based on the Yeoman template, you will get the following solution structure:
