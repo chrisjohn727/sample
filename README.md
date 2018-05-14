@@ -13,8 +13,8 @@ To install and configure Kognifai Application Framework, refer to:
 
 ## QuickStart
 * [Step 1. Set up the Development Environment](https://github.com/chrisjohn727/sample/blob/master/lnkdpages/Set%20up%20the%20Development%20Environment.md)
-* [Step 2. Create a new project](https://github.com/chrisjohn727/sample/blob/master/lnkdpages/Set%20up%20the%20Development%20Environment.md)
-* [Step 3: Start the application](https://github.com/chrisjohn727/sample/blob/master/lnkdpages/Set%20up%20the%20Development%20Environment.md)
+- [Step 2. Create a new project](https://github.com/chrisjohn727/sample/blob/master/lnkdpages/Set%20up%20the%20Development%20Environment.md)
+- [Step 3. Start the application](https://github.com/chrisjohn727/sample/blob/master/lnkdpages/Set%20up%20the%20Development%20Environment.md)
 
 
 ## Building your First Kognifai App
@@ -123,8 +123,8 @@ The newly created sample Widgets Package project is the developer’s entry poin
 
 #### Quick Start
 * [Step 1. Set up the Development Environment](https://github.com/chrisjohn727/sample/blob/master/lnkdpages/Sample%20Poseidon%20Instruments%20Package.md)
-* [Step 2. Create a new project](https://github.com/chrisjohn727/sample/blob/master/lnkdpages/Sample%20Poseidon%20Instruments%20Package.md)
-* [Step 3. Run the instrument in the platform](https://github.com/chrisjohn727/sample/blob/master/lnkdpages/Sample%20Poseidon%20Instruments%20Package.md)
+- [Step 2. Create a new project](https://github.com/chrisjohn727/sample/blob/master/lnkdpages/Sample%20Poseidon%20Instruments%20Package.md)
+- [Step 3. Run the instrument in the platform](https://github.com/chrisjohn727/sample/blob/master/lnkdpages/Sample%20Poseidon%20Instruments%20Package.md)
 
 ### Basic use
 * [Application Files](https://github.com/chrisjohn727/sample/blob/master/lnkdpages/Application%20Files.md)
