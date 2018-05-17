@@ -131,3 +131,6 @@ The newly created sample Widgets Package project is the developer’s entry poin
 * [Build Process ](https://github.com/chrisjohn727/sample/blob/master/lnkdpages/Build%20Process.md)
 
 ## License
+
+## Poseidon Next
+For more information on Poseidon next, click ![here](https://github.com/chrisjohn727/sample/wiki/PoseidonNext_Sidebar)
