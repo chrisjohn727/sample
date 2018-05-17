@@ -133,4 +133,4 @@ The newly created sample Widgets Package project is the developer’s entry poin
 ## License
 
 ## Poseidon Next
-For more information on Poseidon next, click ![here](https://github.com/chrisjohn727/sample/wiki/PoseidonNext_Sidebar)
+For more information on Poseidon next, click [here](https://github.com/chrisjohn727/sample/wiki/PoseidonNext_Sidebar)
