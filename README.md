@@ -7,8 +7,8 @@ __Welcome to Kognifai Application Framework__. This repository guides you to cre
 | --- |                                                   | --- | 
 | Install - Installation procedures |                 
 
-| Main Headings |
-| --- | 
+| Main Headings |             | Main Headings |
+| --- |                       | --- | 
 
 
 
