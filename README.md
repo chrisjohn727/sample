@@ -5,7 +5,8 @@ __Welcome to Kognifai Application Framework__. This repository guides you to cre
 
 | Widget|             
 | :--- |                                         
-| Creating a widget - This helps you to create your first widget |                 
+| Creating a widget - This helps you to create your first widget
+  Applying a Widget - this indicates |                 
 
 | Main Headings |             | Main Headings |
 | --- |                       | --- | 
