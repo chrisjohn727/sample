@@ -2,6 +2,7 @@
 ![image.png](.attachments/image-f2fc87e8-a6c3-4010-8951-bfaac98306e5.png)
 
 __Welcome to Kognifai Application Framework__. This repository guides you to create your first Poseidon Module, Widget, a Kognifai (Yeoman) application and samples for each of them.
+
 | Main Headings |
 | --- | --- |
 | ## Create Your First Module - Getting started page |
