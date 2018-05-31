@@ -8,7 +8,8 @@ __Welcome to Kognifai Application Framework__. This repository guides you to cre
 | Install - Installation procedures |                 
 
 | Main Headings |
-| ## Create Your First Module - Getting started page | 
+| --- | 
+
 
 
 
