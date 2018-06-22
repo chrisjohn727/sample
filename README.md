@@ -1,4 +1,4 @@
-![Home Image](https://github.com/chrisjohn727/sample/blob/master/images/Kognifai.png)
+
 
 
 __Welcome to Kognifai Application Framework__. This repository guides you to create your first Poseidon Module, Widget, a Kognifai (Yeoman) application and samples for each of them.
